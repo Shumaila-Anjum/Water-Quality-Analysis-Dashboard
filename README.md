@@ -129,16 +129,6 @@ Fish populations differ between pollution and non-pollution events, highlighting
 
 ---
 
-# 📁 Repository Structure
-
-```
-Data/
-PowerBI/
-Images/
-Documentation/
-README.md
-```
-
 ---
 
 # 📚 Skills Demonstrated
